@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **shazedurrahman86@gmail.com**
 
-- 📄 Know about my experiences: [1. https://elaborate-wisp-a7e7d6.netlify.app/ ] [2. https://shazid86.github.io/Penguin-Fashion/ ]
+- 📄 Know about my experiences: [1. https://dumbbells.netlify.app/ ] [2. https://shazid86.github.io/Penguin-Fashion/ ]
 
 - ⚡ Fun fact: **I love clean UI, solving problems, and sharing knowledge with others**
 
